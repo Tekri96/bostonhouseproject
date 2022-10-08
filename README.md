@@ -1,4 +1,4 @@
-# bostonhouseproject : Predicts the prices of houses using the boston houaing dataset from sklearn.
+# bostonhouseproject : Predicts the prices of houses using the boston housing dataset from sklearn.
 
 The most difficult part of a machine project is deployment. There is a huge chasm between a trained model & a deploy-ready application.
 What we learn in school is to create model-run predictions and that's it. However, when you get into the industry this is where the actual work starts, integrating your model with different services like a web app or an API, scaling it up, and hosting it on a cloud platform.
